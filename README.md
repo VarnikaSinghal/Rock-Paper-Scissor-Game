@@ -4,4 +4,5 @@
 2. This Game is developed in Python.  
 3. In this Game, One time user has to select his choice.  
 4. Then, Computer chooses its choice.  
-5. If both choice matches, then it becomes "Tie: between the user and computer.
+5. If both choice matches, then it becomes "Tie: between the user and computer.  
+6. Otherwise Either computer or user "wins" or "Loose".
